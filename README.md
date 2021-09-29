@@ -2,7 +2,7 @@
 
 
 
-[![Crispy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crispy-down&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Crispy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crispy&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

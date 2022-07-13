@@ -6,7 +6,7 @@
 <li> I'm a junior at Dong-A Univ. 📘
 <li> My major is Computer Engineering. 💻
 <li> Currently my main focus is on algorithm and computer graphics. 🔍
-<li> contacts : a71463092@gmail.com 💛
+<li> Contacts : a71463092@gmail.com 💛
 </ul>
 
 <h1> STACKS </h1>

@@ -1,6 +1,6 @@
 
 
-<h1> HELLO THERE ! </h1>
+<h1> HELLO THERE ! 👋 </h1>
 <h5> Positive Vibes Only  🎶🎶🎶 </h5>
 
 <ul>
@@ -10,7 +10,7 @@
 <li> Contacts : a71463092@gmail.com 💛
 </ul>
 
-<h1> STACKS </h1>
+<h1> STACKS  📚 </h1>
 <h5> These are all stacks that i have coded once more !  📜 </h5>
 
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 
-<h1> STATUS </h1>
+<h1> STATUS ⌨️ </h1>
 <h5> Keep on coding 🔥 🔥 🔥 </h5>
 
 

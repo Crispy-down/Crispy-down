@@ -26,7 +26,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcrispy-down.github.io&count_bg=%2302F762&title_bg=%23373434&icon=github.svg&icon_color=%23FBFBFB&title=VISIT&edge_flat=true)](https://hits.seeyoufarm.com)
 
-![Crispy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crispy-down&show_icons=true&theme=dark)     [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=crispy3092)](https://solved.ac/crispy3092/)
+![Crispy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crispy-down&show_icons=true&theme=dark)     
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=crispy3092)](https://solved.ac/crispy3092/)
 
 
 

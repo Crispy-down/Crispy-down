@@ -6,7 +6,7 @@
 <ul>
 <li> I'm a junior at Dong-A Univ. 📘
 <li> My major is Computer Engineering. 💻
-<li> Currently my main focus is on algorithm and computer graphics. 🔍
+<li> Currently my main focus is on Full-Stack Web Project and Algorithms. 🔍
 <li> Contacts : a71463092@gmail.com 💛
 </ul>
 

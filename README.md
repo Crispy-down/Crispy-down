@@ -4,7 +4,7 @@
 <h5> Positive Vibes Only  🎶🎶🎶 </h5>
 
 <ul>
-<li> I'm a junior at Dong-A Univ. 📘
+<li> I'm a senior at Dong-A Univ. 📘
 <li> My major is Computer Engineering. 💻
 <li> Currently my main focus is on Full-Stack Web Project and Algorithms. 🔍
 <li> Contacts : a71463092@gmail.com 💛
